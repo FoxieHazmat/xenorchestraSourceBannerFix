@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##FOXIEHAZMAT##
-##Version: 0.1
+##Version: 1.0
 ##XOA Compatiblility: v5.34.0
 
 ####### SUDO IS REQUIRED #######
