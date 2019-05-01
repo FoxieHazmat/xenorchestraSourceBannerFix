@@ -1,2 +1,2 @@
 # xenorchestraSourceBannerFix
-This script fixes the XOA warning banner added in v5.40
+This script fixes the XOA warning banner added in v5.34
